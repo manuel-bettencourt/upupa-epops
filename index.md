@@ -1,8 +1,8 @@
 # Welcome to My Blog!
 
-![A beautiful landscape](images/landscape.jpg)
+![Poupa! (source: https://wildambience.com/wildlife-sounds/eurasian-hoopoe/?srsltid=AfmBOoqdGXGA9s2mWVHFDViyG06iU6wbYNsgPeDsbYFKQPLjvrnFax2e)](images/Hoopoe_1080.jpg)
 
 Check out my latest posts:
 
-- [My First Blog Post](posts/2025-11-27-my-first-post.md)
-- [Another Post](posts/2025-11-28-another-post.md)
+- [Brain image registration with CMTK](posts/brain_image_registration_CMTK.md)
+
